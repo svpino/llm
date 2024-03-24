@@ -1,0 +1,12 @@
+langchain
+langchain-openai
+langchain_experimental
+langchain_community
+docarray
+pydantic==1.10.8
+python-dotenv
+ruff
+bs4
+ipytest
+giskard
+giskard[llm]@git+https://github.com/Giskard-AI/giskard@main
