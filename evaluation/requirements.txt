@@ -8,5 +8,4 @@ python-dotenv
 ruff
 bs4
 ipytest
-giskard
-giskard[llm]@git+https://github.com/Giskard-AI/giskard@main
+giskard[llm]
