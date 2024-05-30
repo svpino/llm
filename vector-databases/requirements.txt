@@ -1,0 +1,4 @@
+pinecone-client
+pinecone-datasets
+openai
+faiss-cpu
